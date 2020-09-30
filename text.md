@@ -1,3 +1,3 @@
 There are three lines in this file.
-The second line is no longer the shortest.
+I completely changed the second line.
 The third line is truncated...
