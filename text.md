@@ -1,4 +1,4 @@
-There are three lines in this file.
+There are three lines in this document.
 
 The second line is the shortest.
 
