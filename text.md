@@ -1,5 +1,5 @@
-There are three lines in this document.
+There are two lines in this document.
 
-The second line is no longer the shortest.
+The second line is deleted.
 
 The third line is at the end of.
